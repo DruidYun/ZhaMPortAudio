@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\source\\zhamportaudio\\private\\zhamportaudio.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\intermediate\\build\\win64\\x64\\wlmqjc_aeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\zhamportaudio\\definitions.zhamportaudio.h",
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\source\\zhamportaudio\\public\\zhamportaudio.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

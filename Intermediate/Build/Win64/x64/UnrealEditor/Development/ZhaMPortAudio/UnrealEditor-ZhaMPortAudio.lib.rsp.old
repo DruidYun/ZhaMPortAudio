@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ZhaMPortAudio.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Intermediate\Build\Win64\x64\WLMQJC_AEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZhaMPortAudio\ZhaMPortAudio.cpp.obj"
+"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZhaMPortAudio\Default.rc2.res"
+/OUT:"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZhaMPortAudio\UnrealEditor-ZhaMPortAudio.lib"

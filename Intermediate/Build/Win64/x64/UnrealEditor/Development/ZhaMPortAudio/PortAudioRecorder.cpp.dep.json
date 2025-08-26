@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\source\\zhamportaudio\\private\\portaudiorecorder.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\intermediate\\build\\win64\\x64\\wlmqjc_aeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\zhamportaudio\\definitions.zhamportaudio.h",
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\source\\zhamportaudio\\public\\portaudiorecorder.h",
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\thirdparty\\include\\portaudio.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\projects\\ruishi\\t54\\wlmqjc_a_ai\\plugins\\zhamportaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\zhamportaudio\\uht\\portaudiorecorder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
