@@ -5,13 +5,6 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-// DLL 句柄和函数指针
-void* DLLHandle = nullptr;
-typedef int (*AddNumbersFunc)(int, int);
-AddNumbersFunc AddNumbersPtr = nullptr;
-
-                        
-
 class FZhaMPortAudioModule : public IModuleInterface
 {
 public:
