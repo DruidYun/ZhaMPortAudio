@@ -23,6 +23,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\ImageCore\UHT"
 /I "Runtime\ImageCore\Public"
 /I "D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\UnrealEditor\Inc\ZhaMPortAudio\UHT"
+/I "D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\ThirdParty\include"
 /I "D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Source"
 /I "D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Source\ZhaMPortAudio\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"

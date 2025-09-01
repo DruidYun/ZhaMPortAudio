@@ -33,7 +33,7 @@ public class ZhaMPortAudio : ModuleRules
 			
 			// 添加运行时依赖，确保 DLL 被复制到 Binaries 目录
 			RuntimeDependencies.Add("$(PluginDir)/Binaries/Win64/portaudio_x64.dll", DLLPath, StagedFileType.NonUFS);
-			
+			RuntimeDependencies.Add("$(TargetOutputDir)/Binaries/Win64/portaudio_x64.dll", DLLPath, StagedFileType.NonUFS);
 			string LibPath = Path.Combine(ThirdPartyPath, "lib/portaudio_x64.lib");
 			if (File.Exists(LibPath))
 			{

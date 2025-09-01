@@ -1,11 +1,11 @@
-"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Source\ZhaMPortAudio\Private\ZhaMPortAudio.cpp"
-/FI"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Intermediate\Build\Win64\x64\WLMQJC_A\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/FI"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\Definitions.ZhaMPortAudio.h"
-/Yu"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Intermediate\Build\Win64\x64\WLMQJC_A\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/Fp"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Intermediate\Build\Win64\x64\WLMQJC_A\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.cpp.obj"
-/sourceDependencies "D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.cpp.dep.json"
-@"D:\Projects\Ruishi\t54\WLMQJC_A_AI\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.Shared.rsp"
+"D:\Projects\Ruishi\t54\CppUtil\Plugins\ZhaMPortAudio\Source\ZhaMPortAudio\Private\ZhaMPortAudio.cpp"
+/FI"D:\Projects\Ruishi\t54\CppUtil\Intermediate\Build\Win64\x64\CppUtil\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/FI"D:\Projects\Ruishi\t54\CppUtil\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\Definitions.ZhaMPortAudio.h"
+/Yu"D:\Projects\Ruishi\t54\CppUtil\Intermediate\Build\Win64\x64\CppUtil\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/Fp"D:\Projects\Ruishi\t54\CppUtil\Intermediate\Build\Win64\x64\CppUtil\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Projects\Ruishi\t54\CppUtil\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.cpp.obj"
+/sourceDependencies "D:\Projects\Ruishi\t54\CppUtil\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.cpp.dep.json"
+@"D:\Projects\Ruishi\t54\CppUtil\Plugins\ZhaMPortAudio\Intermediate\Build\Win64\x64\UnrealGame\Shipping\ZhaMPortAudio\ZhaMPortAudio.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\intermediate\\build\\win64\\x64\\unrealgame\\development\\zhamportaudio\\module.zhamportaudio.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\ruishi\\t54\\cpputil\\intermediate\\build\\win64\\x64\\cpputil\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\intermediate\\build\\win64\\x64\\unrealgame\\development\\zhamportaudio\\definitions.zhamportaudio.h",
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\intermediate\\build\\win64\\unrealgame\\inc\\zhamportaudio\\uht\\portaudiorecorder.gen.cpp",
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\source\\zhamportaudio\\public\\portaudiorecorder.h",
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\thirdparty\\include\\portaudio.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\program\\ue_version\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\intermediate\\build\\win64\\unrealgame\\inc\\zhamportaudio\\uht\\portaudiorecorder.generated.h",
+            "d:\\projects\\ruishi\\t54\\cpputil\\plugins\\zhamportaudio\\intermediate\\build\\win64\\unrealgame\\inc\\zhamportaudio\\uht\\zhamportaudio.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
